@@ -1,0 +1,7 @@
+Seed Test Raporu
+----------------
+Tarih: 2026-01-05
+Durum: Başarılı
+RSA Anahtar Uzunluğu: 2048 bit
+Türetilen AES Anahtarı: SHA-256(RSA_Seed)
+Güvenlik Düzeyi: Kriptografik Seviye

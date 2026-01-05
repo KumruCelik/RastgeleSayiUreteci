@@ -1,0 +1,14 @@
+------------------------------
+İSTATİSTİKSEL ANALİZ SONUÇLARI
+------------------------------
+Toplam Veri        : 1048576 byte (8388608 bit)
+0 Sayısı           : 4195043 (%50.0088)
+1 Sayısı           : 4193565 (%49.9912)
+Fark               : 1478 bit
+Kontrol (0 + 1)    : 8388608 bit
+Bit sayımı tutarlılığı: BAŞARILI
+------------------------------
+Hesaplanan Entropi : 7.999831 bit/byte
+İdeal Entropi      : 8.000000 bit/byte
+------------------------------
+SONUÇ: Yüksek rastgelelik düzeyi (Başarılı)
