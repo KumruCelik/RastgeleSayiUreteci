@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rastgele Sayı Üreteci (RSA + AES-CTR)
 
 Bu proje, kriptografik olarak güvenli bir rastgele sayı üreteci (CSPRNG) uygulamasıdır. Hibrit bir yaklaşım kullanarak hem RSA'nın matematiksel karmaşıklığını hem de AES'in hızını ve güvenliğini birleştirir.
@@ -90,3 +91,6 @@ ALGORİTMA RSA_AES_CTR_RNG:
 
 ---
 *Bu proje eğitim amaçlı geliştirilmiş bir kriptografik uygulama örneğidir.*
+=======
+# RastgeleSayiUreteci
+>>>>>>> 5a9f39cc52466e54ccc25fc7de3dd0f458351828
